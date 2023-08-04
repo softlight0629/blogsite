@@ -23,7 +23,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
-  theme: '@vuepress/blog ',
+  theme: '@vuepress/blog',
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress. 
